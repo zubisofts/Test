@@ -1,0 +1,281 @@
+
+{
+  "data": {
+    "1": [
+      {
+        "category_id": "Baby Care",
+        "product_name": "Right Handed Angled Silicone Baby Spoon",
+        "product_image": "https://bornbabies.in/public/main_category1/babycare/MB301_1/250/0_MB301_1*250.jpg",
+        "sku": "MB301_1",
+        "offer_percentage": 41,
+        "actual_price": 159,
+        "selling_price": 0,
+        "maximum_retail_price": 269
+      },
+      {
+        "category_id": "Baby Care",
+        "product_name": "Pur Baby Anti-Spill Design Sipper 250 ml",
+        "product_image": "https://bornbabies.in/public/main_category1/babycare/Pur_2_2/250/0_Pur_2_2*250.jpg",
+        "sku": "Pur_2_2",
+        "offer_percentage": 0,
+        "actual_price": 449,
+        "selling_price": 0,
+        "maximum_retail_price": 449
+      },
+      {
+        "category_id": "Baby Care",
+        "product_name": "Newborn Ultrasoft Light Weight Embroidery Baby Bath Towel",
+        "product_image": "https://bornbabies.in/public/main_category1/babycare/BB080_7/250/0_BB080_7*250.jpg",
+        "sku": "BB080_7",
+        "offer_percentage": 29,
+        "actual_price": 499,
+        "selling_price": 0,
+        "maximum_retail_price": 699
+      },
+      {
+        "category_id": "Baby Care",
+        "product_name": "Combo Of Baby Feeding Bottle And Self Feeding Training Spoon And Fork",
+        "product_image": "https://bornbabies.in/public/main_category1/babycare/RRB1205_5/250/0_RRB1205_5*250.jpg",
+        "sku": "RRB1205_5",
+        "offer_percentage": 51,
+        "actual_price": 229,
+        "selling_price": 0,
+        "maximum_retail_price": 468
+      },
+      {
+        "category_id": "Baby Care",
+        "product_name": "Baby Boys and Girls Reusable and Washable Cloth Diaper Panties Pack of 2",
+        "product_image": "https://bornbabies.in/public/main_category1/babycare/LBB224_5_S/250/0_LBB224_5_S*250.jpg",
+        "sku": "LBB224_5_S",
+        "offer_percentage": 58,
+        "actual_price": 189,
+        "selling_price": 239,
+        "maximum_retail_price": 449
+      },
+      {
+        "category_id": "Baby Care",
+        "product_name": "Combo Of Baby Feeding Bottle And Self Feeding Training Spoon And Fork",
+        "product_image": "https://bornbabies.in/public/main_category1/babycare/RRB1205_4/250/0_RRB1205_4*250.jpg",
+        "sku": "RRB1205_4",
+        "offer_percentage": 51,
+        "actual_price": 229,
+        "selling_price": 0,
+        "maximum_retail_price": 468
+      }
+    ],
+    "2": [
+      {
+        "banner_id": 5,
+        "image": "https://bornbabies.in/public/uploads/mobile_banner_main/23.babyEssentials.jpg",
+        "banner_redirect_url": "Baby Care"
+      }
+    ],
+    "3": [
+      {
+        "category_id": "Baby Toys",
+        "product_name": "Sliceable Vegetables Gift Set with Cutting Board and Knife Toy for Kids,",
+        "product_image": "https://bornbabies.in/public/main_category1/babytoys/KC033/250/0_KC033*250.jpg",
+        "sku": "KC033",
+        "offer_percentage": 29,
+        "actual_price": 499,
+        "selling_price": 499,
+        "maximum_retail_price": 699
+      },
+      {
+        "category_id": "Baby Toys",
+        "product_name": "Monsto Truck Off-Road Monster fire Rescue Toy Truck",
+        "product_image": "https://bornbabies.in/public/main_category1/babytoys/MT001_5/250/0_MT001_5*250.jpg",
+        "sku": "MT001_5",
+        "offer_percentage": 0,
+        "actual_price": 299,
+        "selling_price": 0,
+        "maximum_retail_price": 299
+      },
+      {
+        "category_id": "Baby Toys",
+        "product_name": "Brok Off-Road Passion Monster Racing Toy Truck",
+        "product_image": "https://bornbabies.in/public/main_category1/babytoys/MT002_5/250/0_MT002_5*250.jpg",
+        "sku": "MT002_5",
+        "offer_percentage": 0,
+        "actual_price": 299,
+        "selling_price": 0,
+        "maximum_retail_price": 299
+      },
+      {
+        "category_id": "Baby Toys",
+        "product_name": "Baby Pull Back Car Toys (Red)",
+        "product_image": "https://bornbabies.in/public/main_category1/babytoys/KC010/250/0_KC010*250.jpg",
+        "sku": "KC010",
+        "offer_percentage": 24,
+        "actual_price": 379,
+        "selling_price": 0,
+        "maximum_retail_price": 499
+      },
+      {
+        "category_id": "Baby Toys",
+        "product_name": "NO 1 Bowling Type Outdoor & Indoor games",
+        "product_image": "https://bornbabies.in/public/main_category1/babytoys/AK008/250/0_AK008*250.jpg",
+        "sku": "AK008",
+        "offer_percentage": 0,
+        "actual_price": 279,
+        "selling_price": 0,
+        "maximum_retail_price": 279
+      },
+      {
+        "category_id": "Baby Toys",
+        "product_name": "Attractive Colorful Jingle Stick Rattle for Babies",
+        "product_image": "https://bornbabies.in/public/main_category1/babytoys/KC088_1/250/0_KC088_1*250.jpg",
+        "sku": "KC088_1",
+        "offer_percentage": 78,
+        "actual_price": 49,
+        "selling_price": 0,
+        "maximum_retail_price": 219
+      }
+    ],
+    "4": [
+      {
+        "banner_id": 4,
+        "image": "https://bornbabies.in/public/uploads/mobile_banner_main/09.jpg",
+        "banner_redirect_url": "Baby Essential"
+      }
+    ],
+    "5": [
+      {
+        "category_id": "Baby Footwears",
+        "product_name": "Latest Collection, Comfortable & Fashionable Sandals for Baby Girls",
+        "product_image": "https://bornbabies.in/public/main_category1/footwears/KW001_2_5/250/0_KW001_2_5*250.jpg",
+        "sku": "KW001_2_5",
+        "offer_percentage": 43,
+        "actual_price": 399,
+        "selling_price": 0,
+        "maximum_retail_price": 699
+      },
+      {
+        "category_id": "Baby Footwears",
+        "product_name": "Baby Whistle Outdoor First Walking Musical Shoes with Lace",
+        "product_image": "https://bornbabies.in/public/main_category1/footwears/SH121_1_5/250/0_SH121_1_5*250.jpg",
+        "sku": "SH121_1_5",
+        "offer_percentage": 43,
+        "actual_price": 199,
+        "selling_price": 0,
+        "maximum_retail_price": 349
+      },
+      {
+        "category_id": "Baby Footwears",
+        "product_name": "Soft Cotton Multi Colour Baby Boy/Girl Printed Mittens",
+        "product_image": "https://bornbabies.in/public/main_category1/footwears/BBS097_3/250/0_BBS097_3*250.jpg",
+        "sku": "BBS097_3",
+        "offer_percentage": 42,
+        "actual_price": 75,
+        "selling_price": 0,
+        "maximum_retail_price": 129
+      },
+      {
+        "category_id": "Baby Footwears",
+        "product_name": "Latest Collection, Comfortable & Fashionable Sandals for Baby Girls",
+        "product_image": "https://bornbabies.in/public/main_category1/footwears/KW001/250/0_KW001*250.jpg",
+        "sku": "KW001",
+        "offer_percentage": 20,
+        "actual_price": 399,
+        "selling_price": 0,
+        "maximum_retail_price": 499
+      },
+      {
+        "category_id": "Baby Footwears",
+        "product_name": "Baby's Sandals, Baby Stylish Sandals Cartoon Design",
+        "product_image": "https://bornbabies.in/public/main_category1/footwears/MB208_1/250/0_MB208_1*250.jpg",
+        "sku": "MB208_1",
+        "offer_percentage": 45,
+        "actual_price": 219,
+        "selling_price": 0,
+        "maximum_retail_price": 399
+      },
+      {
+        "category_id": "Baby Footwears",
+        "product_name": "Baby Red Color Shoes with Strap for Baby Boys & Baby Girls",
+        "product_image": "https://bornbabies.in/public/main_category1/footwears/MB207_2/250/0_MB207_2*250.jpg",
+        "sku": "MB207_2",
+        "offer_percentage": 43,
+        "actual_price": 229,
+        "selling_price": 0,
+        "maximum_retail_price": 399
+      }
+    ],
+    "6": [
+      {
+        "banner_id": 2,
+        "image": "https://bornbabies.in/public/uploads/mobile_banner_main/4.banners04.jpg",
+        "banner_redirect_url": "Baby Toys"
+      }
+    ],
+    "7": [
+      {
+        "category_id": "Baby Activity & Gears",
+        "product_name": "Delight Reversible Baby Pram with Mosquito Net,Diaper Bag and Wheel Breaks",
+        "product_image": "https://bornbabies.in/public/main_category1/activity_gears/C3_1_Blue/250/0_C3_1_Blue*250.jpg",
+        "sku": "C3_1_Blue",
+        "offer_percentage": 40,
+        "actual_price": 5999,
+        "selling_price": null,
+        "maximum_retail_price": 9999
+      },
+      {
+        "category_id": "Baby Activity & Gears",
+        "product_name": "Stroller/Buggy, Compact & Travel Friendly, for Baby/Kids",
+        "product_image": "https://bornbabies.in/public/main_category1/activity_gears/203_Pink/250/0_203_Pink*250.jpg",
+        "sku": "203_Pink",
+        "offer_percentage": 31,
+        "actual_price": 2774,
+        "selling_price": 2774,
+        "maximum_retail_price": 3999
+      },
+      {
+        "category_id": "Baby Activity & Gears",
+        "product_name": "Baby Walker with Toy Bar Rattles and Toys",
+        "product_image": "https://bornbabies.in/public/main_category1/activity_gears/LL901_GREEN/250/0_LL901_GREEN*250.jpg",
+        "sku": "LL901_GREEN",
+        "offer_percentage": 46,
+        "actual_price": 1999,
+        "selling_price": 0,
+        "maximum_retail_price": 3695
+      },
+      {
+        "category_id": "Baby Activity & Gears",
+        "product_name": "Feeding High Chair for Baby - 5 Levels Smart Baby Feeding High Chair",
+        "product_image": "https://bornbabies.in/public/main_category1/activity_gears/HIGHCHAIR/250/0_HIGHCHAIR*250.jpg",
+        "sku": "HIGHCHAIR",
+        "offer_percentage": 11,
+        "actual_price": 8499,
+        "selling_price": 8499,
+        "maximum_retail_price": 9599
+      },
+      {
+        "category_id": "Baby Activity & Gears",
+        "product_name": "Stroller Rotating Wheels and Adjustable Seat",
+        "product_image": "https://bornbabies.in/public/main_category1/activity_gears/722C/250/0_722C*250.jpg",
+        "sku": "722C",
+        "offer_percentage": 33,
+        "actual_price": 2999,
+        "selling_price": 0,
+        "maximum_retail_price": 4499
+      },
+      {
+        "category_id": "Baby Activity & Gears",
+        "product_name": "Baby Walker with Adjustable Height and  Bar Rattles",
+        "product_image": "https://bornbabies.in/public/main_category1/activity_gears/LL801_1/250/0_LL801_1*250.jpg",
+        "sku": "LL801_1",
+        "offer_percentage": 32,
+        "actual_price": 1499,
+        "selling_price": 0,
+        "maximum_retail_price": 2199
+      }
+    ],
+    "8": [
+      {
+        "banner_id": 6,
+        "image": "https://bornbabies.in/public/uploads/mobile_banner_main/2.banners020.jpg",
+        "banner_redirect_url": "Baby Activity & Gears"
+      }
+    ]
+  }
+}
